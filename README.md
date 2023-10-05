@@ -1,3 +1,2 @@
-# project-1
- Tech degree project 1 
-My very first project on treehouse , Its a random quote generator 
+# A Random Quote Generator
+My very first project using JS , Its a random quote generator 
